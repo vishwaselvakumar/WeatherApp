@@ -1,6 +1,6 @@
 # WeatherApp +++
 I have created an Weather Detecting app With fetching information from the Open Weather API 
-# Simple Weather App Tutorial
+# Simple Weather App Tutorial ALLL UNDER THAT CONDIATIONS
 
 <p align="left">
   <a href="https://discord.gg/fPrdqh3Zfu" alt="Dev Pro Tips Discussion & Support Server">
