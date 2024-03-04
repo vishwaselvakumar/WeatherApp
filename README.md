@@ -3,6 +3,9 @@ I have created an Weather Detecting app With fetching information from the Open 
 # Simple Weather App Tutorial ALLL UNDER THAT CONDIATIONS
 
 <p align="left">
+
+
+  
   <a href="https://discord.gg/fPrdqh3Zfu" alt="Dev Pro Tips Discussion & Support Server">
     <img src="https://img.shields.io/discord/819650821314052106?color=7289DA&logo=discord&logoColor=white&style=for-the-badge"/></a>
 </p>
